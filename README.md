@@ -1,0 +1,1 @@
+A Calculator for GA—also to teach myself the concepts to prepare for the PPL C172S Ground Exam.
